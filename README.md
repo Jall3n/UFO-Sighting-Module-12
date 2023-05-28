@@ -18,7 +18,7 @@ Next we have an image showing the filters being applied. Additionally, we can fi
 
 ## Summary
 
-- One drawback of this webpage: Dependent on how you format what you enter into the filter. So have to make sure spelling is correct.
+- One drawback of this webpage: Dependent on how you format what you enter into the filter. So have to make sure spelling is correct. Why included the placeholder.
 
 
 - Two additional recommendations for further development:
